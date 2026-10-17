@@ -1,6 +1,7 @@
 # PCBs
 A collection of simple PCBs made for my TER4M0 course.<br /><br />
-Whether more PCBs will be added is TBD. These projects are meant to be beginner friendly and to be used to help students develop their soldering skills.
+These projects are meant to be beginner friendly and to be used to help students develop their soldering skills.<br /><br /> 
+Whether more PCBs will be added is TBD.
 
 **Dice**:<br />
 A simple dice circuit using a 555 timer and binary counter. Includes a seven segment display (common anode) to display the number.<br /><br />
